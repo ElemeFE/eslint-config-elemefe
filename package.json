@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-elemefe",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElemeFE/eslint-config-elemefe.git"
+  },
+  "keywords": [
+    "eslint",
+    "elemefe"
+  ],
+  "author": "long.zhang@ele.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElemeFE/eslint-config-elemefe/issues"
+  },
+  "homepage": "https://github.com/ElemeFE/eslint-config-elemefe#readme"
+}
