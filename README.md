@@ -13,7 +13,7 @@ Our default export contains all of our ESLint rules, including ECMAScript 6.
 
 ### eslint-config-elemefe/legacy
 
-For some legacy project using es6.
+For some legacy project using es5.
 
 1. `npm install --save-dev eslint-config-elemefe eslint`
 2. add `"extends": "elemefe/legacy"` to your .eslintrc
