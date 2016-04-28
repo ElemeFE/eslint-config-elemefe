@@ -22,6 +22,7 @@ module.exports = {
     'classes': true,
     'defaultParams': true,
     'blockBindings': true,
+    'experimentalObjectRestSpread': true,
     'modules': true,
     'objectLiteralComputedProperties': true,
     'objectLiteralShorthandMethods': true,
