@@ -33,7 +33,8 @@ module.exports = {
     'generators': false,
     'templateStrings': true,
     'superInFunctions': true,
-    'experimentalObjectRestSpread': true
+    'experimentalObjectRestSpread': true,
+    'jsx': true
   },
 
   rules: rules
