@@ -11,30 +11,13 @@ module.exports = {
     'jasmine': false
   },
 
-  "parserOptions": {
+  'parserOptions': {
     ecmaVersion: 6,
-    sourceType: "module"
-  },
-
-  'ecmaFeatures': {
-    'arrowFunctions': true,
-    'destructuring': true,
-    'classes': true,
-    'defaultParams': true,
-    'blockBindings': true,
-    'experimentalObjectRestSpread': true,
-    'modules': true,
-    'objectLiteralComputedProperties': true,
-    'objectLiteralShorthandMethods': true,
-    'objectLiteralShorthandProperties': true,
-    'restParams': true,
-    'spread': true,
-    'forOf': false,
-    'generators': false,
-    'templateStrings': true,
-    'superInFunctions': true,
-    'experimentalObjectRestSpread': true,
-    'jsx': true
+    sourceType: 'module',
+    'ecmaFeatures': {
+      'experimentalObjectRestSpread': true,
+      'jsx': true
+    }
   },
 
   rules: rules
