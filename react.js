@@ -1,6 +1,6 @@
 const rules = require('./rules');
 
-module.export = {
+module.exports = {
   'root': true,
 
   'env': {
